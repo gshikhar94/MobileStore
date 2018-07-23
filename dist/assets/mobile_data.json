@@ -1,0 +1,137 @@
+[
+    {
+        "id": "1",
+        "name": "HTC 626 s",
+        "manufacturer": "HTC",
+        "RAM": "2GB",
+        "storage": "8GB",
+        "OS": "Android",
+        "image":"assets/images/HTC 626 s 8gb .jpg"
+    },
+    {
+        "id": "2",
+        "name": "HTC desire 820",
+        "manufacturer": "HTC",
+        "RAM": "3 GB",
+        "storage": "16 GB",
+        "OS": "Android",
+        "image":"assets/images/HTC desire 820 16 gb .jpg"
+    },
+    {
+        "id": "3",
+        "name": "HTC one m",
+        "manufacturer": "HTC",
+        "RAM": "2GB",
+        "storage": "8GB",
+        "OS": "Android",
+        "image":"assets/images/HTC one m 8.jpg"
+    },
+    {
+        "id": "4",
+        "name": "IPhone 8",
+        "manufacturer": "Apple",
+        "RAM": "3GB",
+        "storage": "256GB",
+        "OS": "IOS",
+        "image":"assets/images/Iphone  8 256 gb.jpg"
+    },
+    {
+        "id": "5",
+        "name": "IPhone 6s plus",
+        "manufacturer": "Apple",
+        "RAM": "3GB",
+        "storage": "128GB",
+        "OS": "IOS",
+        "image":"assets/images/Iphone 6 s plus  128 gb.jpg"
+    },
+    {
+        "id": "6",
+        "name": "IPhone 7 plus",
+        "manufacturer": "Apple",
+        "RAM": "3GB",
+        "storage": "32GB",
+        "OS": "IOS",
+        "image":"assets/images/iphone 7 plus 32 gb.jpg"
+    },
+    {
+        "id": "7",
+        "name": "IPhone SE",
+        "manufacturer": "Apple",
+        "RAM": "3GB",
+        "storage": "32GB",
+        "OS": "IOS",
+        "image":"assets/images/Iphone SE 32 gb.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Nokia 6",
+        "manufacturer": "Nokia",
+        "RAM": "2GB",
+        "storage": "32GB",
+        "OS": "Android",
+        "image":"assets/images/nokia 6 32.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Nokia Lumia",
+        "manufacturer": "Nokia",
+        "RAM": "1GB",
+        "storage": "8GB",
+        "OS": "Windows",
+        "image":"assets/images/nokia lumia 610.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Samsung galaxy j3",
+        "manufacturer": "Samsung",
+        "RAM": "2GB",
+        "storage": "16GB",
+        "OS": "Android",
+        "image":"assets/images/samsung galaxy j3 16 gb.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Samsung galaxy j7",
+        "manufacturer": "Samsung",
+        "RAM": "2GB",
+        "storage": "16GB",
+        "OS": "Android",
+        "image":"assets/images/samsung galaxy j7 16 gb.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Samsung galaxy note 8",
+        "manufacturer": "Samsung",
+        "RAM": "2GB",
+        "storage": "32GB",
+        "OS": "Android",
+        "image":"assets/images/samsung galaxy note 8.jpg"
+    },
+    {
+        "id": "13",
+        "name": "Samsung galaxy s8",
+        "manufacturer": "Samsung",
+        "RAM": "2GB",
+        "storage": "64GB",
+        "OS": "Android",
+        "image":"assets/images/samsung galaxy s8 64 gb.jpg"
+    },
+    {
+        "id": "14",
+        "name": "Redmi note 4",
+        "manufacturer": "Redmi",
+        "RAM": "3GB",
+        "storage": "32GB",
+        "OS": "Android",
+        "image":"assets/images/redmi note 4 32 gb.jpg"
+    },
+    {
+        "id": "15",
+        "name": "Redmi note 5",
+        "manufacturer": "Redmi",
+        "RAM": "3GB",
+        "storage": "32GB",
+        "OS": "Android",
+        "image":"assets/images/redmi note 5 32b.jpg"
+    }
+]
